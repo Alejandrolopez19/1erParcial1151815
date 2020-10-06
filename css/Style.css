@@ -9,6 +9,11 @@ body {
 
 }
 
+#navcovid{
+    background-color: blueviolet;
+}
+
+
 h1 {
 	color: #141414;
 	.text-left {
@@ -103,4 +108,10 @@ nav ul {
 
 div	{
 	background-size: 100%
+}
+
+
+.footer{
+    background-color: blueviolet;
+    color: aliceblue;
 }
