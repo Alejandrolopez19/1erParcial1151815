@@ -5,15 +5,15 @@ body {
 	
 	
 }
+.container {
 
+}
 
 h1 {
-	color: #0C0C0C;
+	color: #141414;
 	.text-left {
   text-align: left;
 }
-
-
 
 .text-center {
   text-align: center;
@@ -57,10 +57,12 @@ article li strong {
  }
  nav ul {
  	padding: 0;
+ 	background-color: #2175bc
  }
 
  nav ul li {
  	display: inline;
+ 	background-color: #2175bc
 
  }
  
@@ -71,7 +73,7 @@ article li strong {
  	float: left;
  	padding: 10px;
  	background-color: #2175bc;
- 	color:#fff;
+  	color:#fff;
  }
 
 
@@ -84,3 +86,21 @@ article li strong {
  footer {
  	clear: both;
  }
+
+.navbar{
+        color: #B946BA;
+        width: 400;
+}
+
+
+
+
+
+nav ul {
+	padding: 0;
+	text-align: left;
+}
+
+div	{
+	background-size: 100%
+}
